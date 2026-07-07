@@ -1,0 +1,14 @@
+{
+  "name": "eventsphere",
+  "version": "1.0.0",
+  "description": "EventSphere - Event Ticket Booking Platform",
+  "private": true,
+  "scripts": {
+    "build": "cd frontend && npm run build",
+    "dev": "cd frontend && npm run dev",
+    "preview": "cd frontend && npm run preview"
+  },
+  "keywords": ["events", "tickets", "booking"],
+  "author": "",
+  "license": "MIT"
+}
